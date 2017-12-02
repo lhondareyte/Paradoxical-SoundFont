@@ -5,17 +5,7 @@
 		<tag name="ARTIST" value="Luc Hondareyte"/>
 		<tag name="YEAR" value="2017"/>
 	</tags>
-	<wavetrack name="25,96Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
-		<waveclip offset="0.00000000">
-			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
-				<waveblock start="0">
-					<simpleblockfile filename="e00000a8.au" len="96000" min="-0.8" max="0.8" rms="0.566103"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="51,91Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="51,91Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -25,7 +15,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="103,93Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="103,93Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -35,7 +25,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="207,65Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="207,65Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -45,7 +35,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="415,30Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="415,30Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -55,7 +45,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="830,71Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="830,71Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -65,7 +55,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="1661,22Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="1661,22Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -75,7 +65,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="3322,44Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="3322,44Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
@@ -85,21 +75,11 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="6644,88Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
+	<wavetrack name="6644,88Hz" channel="2" linked="0" mute="0" solo="0" height="50" minimized="0" isSelected="0" rate="96000" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
 				<waveblock start="0">
 					<simpleblockfile filename="e0000f4d.au" len="96000" min="-0.8" max="0.8" rms="0.565687"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-	</wavetrack>
-	<wavetrack name="13289,76Hz" channel="2" linked="0" mute="0" solo="0" height="58" minimized="0" isSelected="1" rate="96000" gain="1.0" pan="0.0">
-		<waveclip offset="0.00000000">
-			<sequence maxsamples="262144" sampleformat="262145" numsamples="96000">
-				<waveblock start="0">
-					<simpleblockfile filename="e0000209.au" len="96000" min="-0.8" max="0.8" rms="0.565683"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
