@@ -6,9 +6,11 @@ make
 ## Hierarchy
 
 ```
-data/     -> Contains Audacity sources files
-waves/    -> Contains WAV files
+data/     -> Audacity sources files
+waves/    -> WAV files
 ```
 
+## References
+ * [Shepard scale](https://en.wikipedia.org/wiki/Shepard_tone)
 ## License
 Theses files are released under the WTF Public license
